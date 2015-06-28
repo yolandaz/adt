@@ -22,17 +22,19 @@ $(document).ready(function() {
 		images.push("images/background/adt"+i+".jpg");
 	}
 	images = shuffleArray(images);
-	$("body").backstretch(images, {duration: 5000, fade: 1000, lazyload: true});
-	var instance = $('body').data('backstretch');
-	var index = $("body").data("backstretch").index;
-	$(window).on("backstretch.before", function (e, instance, index) {
-		console.log(index)
-  // If we wanted to stop the slideshow after it reached the end
-  		if (index === instance.images.length - 1) {
-  			console.log("shuffling!")
-    		instance.images = shuffleArray(instance.images);
-    	}
-	});
+	setTimeout(function () {
+		$("body").backstretch(images, {duration: 6000, fade: 1000, lazyload: true});
+		var instance = $('body').data('backstretch');
+		var index = $("body").data("backstretch").index;
+		$(window).on("backstretch.before", function (e, instance, index) {
+			console.log(index)
+	  // If we wanted to stop the slideshow after it reached the end
+	  		if (index === instance.images.length - 1) {
+	  			console.log("shuffling!")
+	    		instance.images = shuffleArray(instance.images);
+	    	}
+		});
+	}, 6000);
 
 	function shuffleArray(array) {
 	    for (var i = array.length - 1; i > 0; i--) {

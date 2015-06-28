@@ -63,6 +63,9 @@ body {
 	text-decoration: none;
 }
 
+.nav>li>a:focus {
+	background-color:transparent;
+}
 div.title-text {
 	float: left;
 	font-size: 60px;
