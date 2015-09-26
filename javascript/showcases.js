@@ -13,9 +13,4 @@ $(window).load(function() {
 			$('#showcase'+posterClass.substring(6)).fadeIn(200);
 		}, 200);
 	})
-
-	$("button").click(function () {
-    var imgUrl = $(this).data('rel');
-    $("#area").html("<img src='" + imgUrl + "' alt='description' />");
-});
 })
