@@ -22,11 +22,11 @@ body {
 
 #wrapper {
 	position: absolute;
-	top: calc(50% - 75px);
-	left: calc(50% - 320px);
-	background: rgba(40, 40, 40, 0.8);
-	height: 150px;
-	width: 640px;
+	top: calc(50% - 80px);
+	left: calc(50% - 290px);
+	background: rgba(40, 40, 40, 0.92);
+	height: 160px;
+	width: 580px;
 	overflow: visible;
 	max-height: 1032px;
 	max-width: 1300px;
@@ -37,8 +37,8 @@ body {
 	position:absolute;
 	top: -130px;
 	margin:0px 0px 0px -80px;
-	-webkit-filter: drop-shadow(5px 5px 5px rgba(255,255,255,0.8));
-  	filter: drop-shadow(5px 5px 5px rgba(255,255,255,0.8));
+	-webkit-filter: drop-shadow(2px 2px 2px rgba(255,255,255,1));
+  	filter: drop-shadow(2px 2px 2px rgba(255,255,255,1));
   	-ms-filter: "progid:DXImageTransform.Microsoft.DropShadow(Strength=4, Direction=135, Color='#000000')";
   	z-index: 1
 }
@@ -54,7 +54,7 @@ body {
 	text-transform: uppercase;
 	text-align: left;
 	color: white;
-	font-size: 14pt;
+	font-size: 13pt;
 	font-family: Raleway;
 }
 
@@ -79,7 +79,7 @@ div.title-text {
 	position: absolute;
 	font-size: 10pt;
 	color: white;
-	font-family: Raleway;
+	font-family: Open Sans;
 	bottom: 3%;
 	width: 100%;
 	padding-left: 120px;
@@ -89,12 +89,17 @@ div.title-text {
 	text-align: center;
 }
 div#tab1 p {
-	font-family: Kaushan Script;
-	font-size: 50pt;
+	margin-top:-10px;
+	font-family: Wire One;
+	font-size: 58pt;
 	color: #dd0000;
 	margin-left:-15px;
-	-webkit-text-stroke: 2px rgba(0,0,0, 0.4);
-	text-shadow: 4px 4px 4px rgba(255,255,255,0.3);
+	letter-spacing: 5px;
+	-webkit-text-stroke: 2px rgba(0,0,0, 0.0);
+	font-weight:bold;
+}
+.cap {
+	font-size:74pt;
 }
 
 
@@ -104,12 +109,12 @@ div#tab1 p {
 }
 
 .about-pics img{
-    max-height:210px;
+    max-height:200px;
     max-width:340px;
     display:block;
-    border:5px solid #FFFFFF;
+    border:4px solid #FFFFFF;
     margin-top:20px;
-    margin-bottom:10px;
+    margin-bottom:8px;
 }
 
 .topic-header {
@@ -154,7 +159,7 @@ div#tab1 p {
 .auditions-pics img{
 	display:block;
 	margin: 10px 20px;
-	border:5px solid #FFFFFF;
+	border:4px solid #FFFFFF;
 	max-height:180px;
 	max-width:300px;
 	float:right;
@@ -163,6 +168,7 @@ div#tab1 p {
 .question {
 	font-weight:bold;
 	line-height:25px;
+	color:#ff9999;
 }
 
 .extperf-pics img {
@@ -175,20 +181,24 @@ div#tab1 p {
 }
 
 .past-showcases{
-	width: 580px;
+	width: 600px;
 	margin:auto;
+	overflow: visible;
 }
 .past-showcases img{
-	border:5px solid #FFFFFF;	
+	border:4px solid #FFFFFF;	
 	height:198px;
 	width:153px;
 	margin: 10px;
+	overflow: visible;
 	transition: all .4s ease-in-out;
 }
 
 .past-showcases img:hover{
-	transform: scale(1.1);
-	-webkit-transform: scale(1.1);
+	transform: scale(1.07);
+	-webkit-transform: scale(1.07);
+	filter: brightness(50%);
+	-webkit-filter: brightness(50%);
 }
 
 .past-showcases div {
@@ -211,7 +221,7 @@ div#tab1 p {
 }
 
 .repet-pics img{
-	border:5px solid #FFFFFF;	
+	border:3px solid #FFFFFF;	
 	display: inline-block;
 	max-height:200px;
 	max-width:200px;

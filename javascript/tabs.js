@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	var titles = ["", "About Us", "Members", "Members", "Members", "Performances", "Performances", "Performances"];
-	$('#wrapper').css('top', '50%').css('top', '-=75px');
-	$('#wrapper').css('left', '50%').css('left', '-=340px');
+	$('#wrapper').css('top', '50%').css('top', '-=80px');
+	$('#wrapper').css('left', '50%').css('left', '-=290px');
 	$('div.tabContent').hide();
 	$('div#tab1').show();
 	if ($(window).innerHeight() < 600 || $(window).innerWidth() < 1160) {
@@ -28,9 +28,9 @@ $(document).ready(function() {
 					$('div.title-text').text('');			
 					$('#wrapper').animate({
 						top: $(window).innerHeight()/2 - 75 + 'px',
-						height: '150px',
+						height: '160px',
 						left: $(window).innerWidth()/2 - 340 + 'px',
-						width: '640px'
+						width: '590px'
 					}, 600);
 					$("#menu a").animate({
 						padding: '5px 10px 5px 10px'
