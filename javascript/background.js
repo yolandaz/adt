@@ -27,10 +27,10 @@ $(document).ready(function() {
 		var instance = $('body').data('backstretch');
 		var index = $("body").data("backstretch").index;
 		$(window).on("backstretch.before", function (e, instance, index) {
-			console.log(index)
+			//console.log(index)
 	  // If we wanted to stop the slideshow after it reached the end
 	  		if (index === instance.images.length - 1) {
-	  			console.log("shuffling!")
+	  			//console.log("shuffling!")
 	    		instance.images = shuffleArray(instance.images);
 	    	}
 		});

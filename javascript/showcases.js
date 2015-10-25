@@ -6,8 +6,8 @@ $(window).load(function() {
 		// slideIndex--;
 		// }
 		var posterClass = $(this).attr('id');
-		console.log(posterClass);
-		console.log('#showcase'+posterClass.substring(6));
+		//console.log(posterClass);
+		//console.log('#showcase'+posterClass.substring(6));
 		$('.showcase-pics').fadeOut(200);
 		setTimeout(function() {
 			$('#showcase'+posterClass.substring(6)).fadeIn(200);

@@ -55,7 +55,7 @@ $(document).ready(function() {
     	if (y == 0 && x == 0) {
     		y = 1;
 	    	var buttonId = $(this).attr('class');
-	    	console.log(buttonId);
+	    	//console.log(buttonId);
 		    if (curtab != buttonId.charAt(1)) {
 		    	$('div.tabContent').fadeOut(600);
 		    	$('div.title-text').fadeOut(600);
