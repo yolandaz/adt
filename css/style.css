@@ -55,7 +55,7 @@ body {
 	text-align: left;
 	color: white;
 	font-size: 13pt;
-	font-family: Raleway;
+	font-family: Open Sans;
 }
 
 #menu a:hover, #menu-sm a:hover{
@@ -76,6 +76,7 @@ div.title-text {
 	margin-left: 50px;
 }
 .tabContent {
+	display:none;
 	position: absolute;
 	font-size: 10pt;
 	color: white;
@@ -206,6 +207,10 @@ div#tab1 p {
     margin: 10px;
     font-size: 18px;
     text-align: center;
+}
+
+.showcase-pics {
+	display:none;
 }
 
 .tabContent a{

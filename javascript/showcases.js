@@ -1,5 +1,5 @@
-$(window).load(function() {
-	$('.showcase-pics').hide();
+$(document).ready(function() {
+	//$('.showcase-pics').hide();
 	$('.past-showcases img').click(function() {
 		// var slideIndex = $('.past-showcases img').slick('slickCurrentSlide');
 		// if (slideIndex == 1){

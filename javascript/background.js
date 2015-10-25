@@ -16,7 +16,7 @@
 // 	}
 // })
 
-$(document).ready(function() {
+$(window).load(function() {
 	images = new Array();
 	for (i = 1; i <= 11; i++) {
 		images.push("images/background/adt"+i+".jpg");

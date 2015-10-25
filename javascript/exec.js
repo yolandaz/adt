@@ -1,4 +1,4 @@
-$(window).load(function() {
+$(document).ready(function() {
 	$('.deg0').hover(function(){
     	$("#center0").text("Anita Liu '17");
     	$("#center1").text("Director of External Relations");

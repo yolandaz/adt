@@ -1,7 +1,3 @@
-$(document).ready(function() {
-	menu = 0
-	title = 0
-})
 $(window).resize(function () {
 	if (curtab === 1) {
 		$('#wrapper').css({'top':$(window).innerHeight()/2 - 75 + 'px', 'left':$(window).innerWidth()/2 - 340 + 'px'})
