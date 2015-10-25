@@ -34,7 +34,7 @@ $(window).load(function() {
 	    		instance.images = shuffleArray(instance.images);
 	    	}
 		});
-	}, 6000);
+	});
 
 	function shuffleArray(array) {
 	    for (var i = array.length - 1; i > 0; i--) {
