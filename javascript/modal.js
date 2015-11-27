@@ -1,7 +1,6 @@
 $(document).ready(function() {
     $('a[name=modalButton]').click(function (e) {
         e.preventDefault();
-        console.log('click');
 
         var id = $(this).attr('href');
         $('#mask').fadeTo(250, .4);

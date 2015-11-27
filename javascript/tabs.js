@@ -3,8 +3,8 @@ $(document).ready(function() {
 	title = 0
 	$('div#tab1').show();
 	var titles = ["", "About Us", "Members", "Members", "Members", "Performances", "Performances", "Performances"];
-	//$('#wrapper').css('top', '50%').css('top', '-=80px');
-	//$('#wrapper').css('left', '50%').css('left', '-=290px');
+	$('#wrapper').css('top', '50%').css('top', '-=80px');
+	$('#wrapper').css('left', '50%').css('left', '-=290px');
 	if ($(window).innerHeight() < 600 || $(window).innerWidth() < 1160) {
 		$(" .title-text").hide();
         title = 1;

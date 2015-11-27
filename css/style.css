@@ -1,14 +1,15 @@
 @font-face {
-    font-family: "Raleway";
-    src: url("fonts/Raleway/Raleway-Regular.ttf") format("truetype");
+    font-family: "Open Sans";
+    src: url("fonts/Open_Sans/OpenSans-Regular.ttf") format("truetype");
 }
 @font-face {
-    font-family: "Bilbo Swash Caps";
-    src: url("fonts/Bilbo_Swash_Caps/BilboSwashCaps-Regular.ttf") format("truetype");
+    font-family: "Open Sans";
+    src: url("fonts/Open_Sans/OpenSans-Bold.ttf") format("truetype");
+    font-weight: bold;
 }
 @font-face {
-    font-family: "Kaushan Script";
-    src: url("fonts/Kaushan_Script/KaushanScript-Regular.ttf") format("truetype");
+    font-family: "Wire One";
+    src: url("fonts/Wire_One/WireOne.ttf") format("truetype");
 }
 
 
@@ -18,12 +19,13 @@ body {
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center center;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility; 
 }
 
 #announcement {
 	font-family: Open Sans;
 	font-size: 16pt;
-	font-weight:bold;
 	text-align: right;
 	padding-top: 6px;
 	padding-right: 8px;
