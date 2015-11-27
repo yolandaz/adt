@@ -37,14 +37,15 @@ body {
 	border-top-left-radius: 20px;
 	border-bottom-left-radius: 20px;
 	background-color:#D20000;
-	z-index: 15;
+	opacity:.7;
 	color:white;
 	cursor:pointer;
 	text-decoration: none;
+	z-index: 15;
 }
 
 #announcement:hover {
-	background-color: #FE0000;
+	opacity:1;
 }
 #wrapper {
 	position: absolute;
@@ -301,4 +302,8 @@ div#tab1 p {
 	max-width:250px;
 	float:right;
 	margin:10px;
+}
+
+.aHide {
+	display:none;
 }

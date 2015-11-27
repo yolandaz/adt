@@ -1,6 +1,7 @@
 $(document).ready(function() {
 	menu = 0
 	title = 0
+	announcement = 0
 	$('div#tab1').show();
 	var titles = ["", "About Us", "Members", "Members", "Members", "Performances", "Performances", "Performances"];
 	$('#wrapper').css('top', '50%').css('top', '-=80px');
@@ -20,6 +21,15 @@ $(document).ready(function() {
 		if (x == 0 && y == 0) {
 			x = 1;
 			if (curtab != 1) {
+				$('.aHide').fadeOut(100);
+				setTimeout(function() {
+					$('#announcement').animate({
+						width: '400px'
+					}, 400)
+					setTimeout(function() {
+						$('.aText').fadeIn(100)
+					}, 400)
+				}, 100)
 				$('div.tabContent').fadeOut(600);
 				$('div.title-text').fadeOut(600);
 				$('#logo').fadeOut(600);
@@ -58,6 +68,15 @@ $(document).ready(function() {
 	    	var buttonId = $(this).attr('class');
 	    	//console.log(buttonId);
 		    if (curtab != buttonId.charAt(1)) {
+		    	$('.aText').fadeOut(100)
+				setTimeout(function() {
+					$('#announcement').animate({
+						width: '50px'
+					}, 400)
+					setTimeout(function() {
+						$('.aHide').fadeIn(100);
+					}, 400)
+				}, 100)
 		    	$('div.tabContent').fadeOut(600);
 		    	$('div.title-text').fadeOut(600);
 		    	$('#logo').fadeOut(600);
