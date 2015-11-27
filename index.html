@@ -17,15 +17,16 @@
 	<script src="javascript/resize.js"></script>
 	<script src="javascript/jquery.lazyload.min.js"></script>
 	<script src="javascript/lazyload.js"></script>
+	<script src="javascript/modal.js"></script>
 	<link rel="icon" type="image/png" href="images/websitefavicon.png">
 
 	<title>MIT Asian Dance Team</title>
 
 </head>
 <body>
+	<a id='announcement' name='modalButton' href='#modal'>Learn about our upcoming showcase!</a>
 	<div id="wrapper">
 		<img src="images/biglogo.png" id="logo" />
-
 		<div class="title-text"></div>
 		<div class="container-fluid">
 			<div class="navbar-nav nav" id="menu">
@@ -158,6 +159,9 @@
 					<h1 class="topic-header">Past Showcases</h1>
 					<p class="perflinks">Click on the images below to learn more about our setlist and repertoire! </br>Feel free to also browse our <a href="https://picasaweb.google.com/109256026420262857474">photo gallery</a> and <a href="http://www.youtube.com/user/MITAsianDanceTeam?feature=g-high-crv">performance videos</a>!</p>
 					<div class="past-showcases shows1">
+						<div><a href="#"><img id="poster12" src="images/posters/dawn.png"></a>
+							<b>Dawn</b><small><small><br>Fall 2015</small></small>
+						</div>
 						<div><a href="#"><img id="poster11" src="images/posters/eclipse.png"></a>
 							<b>Eclipse</b><small><small><br>Spring 2015</small></small>
 						</div>
@@ -191,6 +195,10 @@
 					    <div><a href="#"><img id="poster1" src="images/posters/phoenixrising.jpg" /></a>
 					    	<b>Phoenix Rising</b><br><small><small>Spring 2010</small></small>
 					    </div>
+					</div>
+					<div class='content perflinks showcase-pics' id='showcase12'>
+						<h1 class='topic-header'>Dawn</h1>
+						Stay tuned for more info about our Fall 2015 showcase!
 					</div>
 					<div class="content perflinks showcase-pics" id="showcase11">
 						<h1 class="topic-header">Eclipse</h1>
@@ -985,6 +993,21 @@
 			<p><i>*Only performances after August 2012 are listed.</i></p>
 			<p>Interested in having MIT ADT perform at your event? Contact us at <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> for details!</p>
 		</div>
+	</div>
+	<div id='mask'></div>
+	<div id='modal'>
+		<h3><b>MIT Asian Dance Team Presents: Dawn</b></h3>
+		<img class='modalposter' src='images/posters/dawn.png'>
+		<p><b>Come to our Fall 2015 showcase, Dawn (晓破星沉)!</b> We'll perform spectacular Dai, Tibetan, and Xinjiang ethnic pieces, classical and contemporary dances, as well as hip-hop pieces by BTS, Monsta X, Boyfriend, Spica, and more! We will also host guest performances from groups including MIT Lion Dance and Syncopasian. The showtimes are:</p>
+		<ul>
+			<li>Wednesday, December 9, 7-9pm</li>
+			<li>Thursday, December 10, 6-8pm</li>
+			<li>Thursday, December 10, 9-11pm</li>
+		</ul>
+		<p>All 3 shows will be held in <b>Walker Memorial</b>. Note that this is different from our normal venue of Kresge Little Theater. Please make sure you arrive 15 minutes early or your ticket may be resold. :(</p>
+
+		<p>Tickets are $5 for MIT affiliates/$7 for general admission if bought early, and $7/$10 if bought at the door. We'll be selling them in <b>MIT's Lobby 10 from 11/30 - 12/4, 12/7 - 12/8 from 9am - 5pm!</b></p>
+		<p>You can also reserve tickets through <a href='http://bit.ly/ADTdawn'>Eventbrite.</p>
 	</div>
 	<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

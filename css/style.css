@@ -20,6 +20,30 @@ body {
 	background-position: center center;
 }
 
+#announcement {
+	font-family: Open Sans;
+	font-size: 16pt;
+	font-weight:bold;
+	text-align: right;
+	padding-top: 6px;
+	padding-right: 8px;
+	position:absolute;
+	top: 40px;
+	right:0;
+	height:45px;
+	width:400px;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	background-color:#D20000;
+	z-index: 15;
+	color:white;
+	cursor:pointer;
+	text-decoration: none;
+}
+
+#announcement:hover {
+	background-color: #FE0000;
+}
 #wrapper {
 	position: absolute;
 	top: calc(50% - 80px);
@@ -214,7 +238,7 @@ div#tab1 p {
 	display:none;
 }
 
-.tabContent a{
+.tabContent a, #modal a{
 	text-decoration:none;
 	color:#ff4444;
 }
@@ -240,4 +264,39 @@ div#tab1 p {
 .slideshow {
 	margin:auto;
 	width: 700px;
+}
+
+#mask {
+	position:absolute;
+	z-index: 99;
+	height:100%;
+	width:100%;
+	background-color:black;
+	opacity:.4;
+	display:none;
+}
+
+#modal {
+	position:absolute;
+	z-index: 100;
+	height:400px;
+	width:800px;
+	top: calc(50% - 200px);
+	left: calc(50% - 400px);
+	background-color: white;
+	display:none;
+	opacity:0;
+	border-radius: 15px;
+	padding: 0px 20px;
+	margin-top: -20px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	font-family: Open Sans
+}
+.modalposter {
+	max-height:250px;
+	max-width:250px;
+	float:right;
+	margin:10px;
 }
