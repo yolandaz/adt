@@ -1,7 +1,6 @@
 $(document).ready(function() {
 	menu = 0
 	title = 0
-	announcement = 0
 	$('div#tab1').show();
 	var titles = ["", "About Us", "Members", "Members", "Members", "Performances", "Performances", "Performances"];
 	$('#wrapper').css('top', '50%').css('top', '-=80px');
@@ -21,27 +20,21 @@ $(document).ready(function() {
 		if (x == 0 && y == 0) {
 			x = 1;
 			if (curtab != 1) {
-				$('.aHide').fadeOut(100);
-				setTimeout(function() {
-					$('#announcement').animate({
-						width: '400px'
-					}, 400)
-					setTimeout(function() {
-						$('.aText').fadeIn(100)
-					}, 400)
-				}, 100)
 				$('div.tabContent').fadeOut(600);
 				$('div.title-text').fadeOut(600);
 				$('#logo').fadeOut(600);
 				setTimeout(function() {
 					$("#logo").css('top', '-130px');
 					$(".tabContent").css({'overflow': 'visible'});	
-					$('div.title-text').text('');			
+					$('div.title-text').text('');
+					$('#announcement').animate({
+						bottom: $(window).innerHeight()/2 + 80 + 'px'
+					}, 600)
 					$('#wrapper').animate({
 						top: $(window).innerHeight()/2 - 80 + 'px',
 						height: '160px',
 						left: $(window).innerWidth()/2 - 290 + 'px',
-						width: '590px'
+						width: '580px'
 					}, 600);
 					$("#menu a").animate({
 						padding: '5px 10px 5px 10px'
@@ -68,15 +61,6 @@ $(document).ready(function() {
 	    	var buttonId = $(this).attr('class');
 	    	//console.log(buttonId);
 		    if (curtab != buttonId.charAt(1)) {
-		    	$('.aText').fadeOut(100)
-				setTimeout(function() {
-					$('#announcement').animate({
-						width: '50px'
-					}, 400)
-					setTimeout(function() {
-						$('.aHide').fadeIn(100);
-					}, 400)
-				}, 100)
 		    	$('div.tabContent').fadeOut(600);
 		    	$('div.title-text').fadeOut(600);
 		    	$('#logo').fadeOut(600);
@@ -84,6 +68,9 @@ $(document).ready(function() {
 					$("#logo").css('top', '100px');
 					$('.tabContent').css({'overflow':'auto'});
 					$('div.title-text').text(titles[curtab-1]);
+					$('#announcement').animate({
+						bottom: Math.max($(window).innerHeight()/2 - 516, $(window).innerHeight()*.06) + $(window).innerHeight() - 2*Math.max($(window).innerHeight()/2 - 516, $(window).innerHeight()*.06) + 'px'
+					}, 600)
 					$('#wrapper').animate({
 						top: Math.max($(window).innerHeight()/2 - 516, $(window).innerHeight()*.06)+'px',
 						height: $(window).innerHeight() - 2*Math.max($(window).innerHeight()/2 - 516, $(window).innerHeight()*.06)+'px',
