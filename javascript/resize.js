@@ -1,6 +1,6 @@
 $(window).resize(function () {
 	if (curtab === 1) {
-		$('#wrapper').css({'top':$(window).innerHeight()/2 - 75 + 'px', 'left':$(window).innerWidth()/2 - 340 + 'px'})
+		$('#wrapper').css({'top':$(window).innerHeight()/2 - 80 + 'px', 'left':$(window).innerWidth()/2 - 290 + 'px'})
 	} else {
         $('#wrapper').css({
             'top': Math.max($(window).innerHeight()/2 - 516, $(window).innerHeight()*.06)+'px',
