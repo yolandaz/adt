@@ -1,15 +1,18 @@
 @font-face {
     font-family: "Open Sans";
-    src: url("fonts/Open_Sans/OpenSans-Regular.ttf") format("truetype");
+    src: url("fonts/Open_Sans/OpenSans-Regular.ttf") format("truetype"),
+    		url("fonts/Open_Sans/OpenSans-Regular.woff") format("woff");
 }
 @font-face {
     font-family: "Open Sans";
-    src: url("fonts/Open_Sans/OpenSans-Bold.ttf") format("truetype");
+    src: url("fonts/Open_Sans/OpenSans-Bold.ttf") format("truetype"),
+    		url("fonts/Open_Sans/OpenSans-Bold.woff") format("woff");
     font-weight: bold;
 }
 @font-face {
     font-family: "Wire One";
-    src: url("fonts/Wire_One/WireOne.ttf") format("truetype");
+    src: url("fonts/Wire_One/WireOne.ttf") format("truetype"),
+    		url("fonts/Wire_One/WireOne.woff") format("woff");
 }
 
 
