@@ -106,13 +106,6 @@ $(document).ready(function() {
 					    });
 					    done[0] = 1;
 			        }
-			        if (buttonId == 'b7' && done[1] == 0) {
-					    var pgwSlideshow = $('.pgwSlideshow').pgwSlideshow();
-					    pgwSlideshow.reload({
-					    	maxHeight: 700,
-					    });
-					    done[1] = 1;
-			        }
 		        }, 1200);
 		        curtab = buttonId.charAt(1);
 		    }
