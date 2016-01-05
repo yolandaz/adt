@@ -1,6 +1,10 @@
+<!-- Navbar -->
+<!-- don't edit this unless you know what you're doing! -->
+
 <img src="images/biglogo.png" id="logo" />
 <div class="title-text"></div>
 <div class="container-fluid">
+    <!-- for normal window size -->
 	<div class="navbar-nav nav" id="menu">
 		<li><a href="#" class="b1">Home</a></li>
 		<li><a href="#" class="b2">About</a></li>
@@ -21,6 +25,7 @@
             </ul>
         </li>
 	</div>
+    <!-- for smaller window sizes -->
 	<div class="navbar-nav nav" id="menu-sm">
 		<li class="dropdown">
 			<a data-toggle="dropdown" class="dropdown-toggle" href="#">Options</a>

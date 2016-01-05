@@ -1,8 +1,27 @@
+<!-- Showcases -->
+
+<!-- Add finished showcase parts to the top of the lists as we go in reverse chronological order -->
+
 <div class="content">
 	<div class="showcases" id="showcasesperf">
+		<!-- Intro stuff -->
 		<h1 class="topic-header">Past Showcases</h1>
 		<p class="perflinks">Click on the images below to learn more about our setlist and repertoire! </br>Feel free to also browse our <a href="https://picasaweb.google.com/109256026420262857474">photo gallery</a> and <a href="http://www.youtube.com/user/MITAsianDanceTeam?feature=g-high-crv">performance videos</a>!</p>
 		<div class="past-showcases shows1">
+
+			<!--
+			Template for new showcase part 1
+			Copy/paste below, and replace date + image link + increment image id as appropriate
+
+			<div><a href="#"><img id="poster12" src="images/posters/dawn.png"></a>
+				<b>Dawn</b><small><small><br>Fall 2015</small></small>
+			</div>
+
+			-->
+
+			<!-- Template part 1 goes here -->
+
+
 			<div><a href="#"><img id="poster12" src="images/posters/dawn.png"></a>
 				<b>Dawn</b><small><small><br>Fall 2015</small></small>
 			</div>
@@ -40,6 +59,101 @@
 				<b>Phoenix Rising</b><br><small><small>Spring 2010</small></small>
 			</div>
 		</div>
+
+		<!--
+		Template for new showcase part 2
+		Copy/paste stuff below, change wordings/links, increment the showcase id as appropriate
+
+		<div class="content perflinks showcase-pics" id="showcase1">
+			<h1 class="topic-header">Name of the showcase</h1>
+			<p>In April of 2009, MIT Asian Dance Team presented its first showcase: Phoenix Rising, a collection of dances combining powerful melodies and metaphoric choreography. This program represents the longevity, strength, harmony, and grace of the ancient Chinese phoenix fenghuang. The four parts of the program (Fire, Energy, Nacarat, Grace), when taken as an acronym, read "feng," meaning "phoenix." Hover over the photos below for more information about the pieces!</p>
+			<p>Click to see the <a href="https://picasaweb.google.com/109256026420262857474/PhoenixRisingSpring2010#slideshow/5762964825770054738">photos</a> and watch the <a href="http://www.youtube.com/playlist?list=PL0F2C5FEED5F868D4">videos</a>!</p>
+			<div class="repet-table">
+				<table>
+					<tbody>
+						<tr>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/sp10/happiness.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp10/festive.png"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp10/synco.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 01 - Happiness</td>
+							<td> 02 - Festive Medley</td>
+							<td> 03 - Syncopasian</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/sp10/noimage.png"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp10/sohot.png"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp10/lifebeauty.png"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 04 - MIT Oori</td>
+							<td> 05 - So Hot</td>
+							<td> 06 - Life is Beautiful</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/sp10/intricacy.png"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp10/chineseen.png"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp10/noimage.png"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 07 - Intricacy</td>
+							<td> 08 - MIT Chinese Ensemble</td>
+							<td> 09 - Naluwa Love Song</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/sp10/women.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp10/noimage.png"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp10/ladies.png"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 10 - All the Best to Women</td>
+							<td> 11 - Chinese Yo-yo</td>
+							<td> 12 - Ladies of Uyghur</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/sp10/noimage.png"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp10/redleaf.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp10/ringdingdong.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 13 - Dancing Diva</td>
+							<td> 14 - One Red Leaf</td>
+							<td> 15 - Ring Ding Dong</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/sp10/gee.png"/></td>
+							<td><img class="lazy" data-original="images/repertoire/sp10/country.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp10/ribbonez.jpg"/></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 16 - Gee</td>
+							<td> 17 - Country Courtship</td>
+							<td> 18 - Ribbon Exquisite</td>
+						</tr>
+						<tr class="repet-pics">
+							<td></td>
+							<td><img class="lazy" data-original="images/repertoire/sp10/nobody.png"></td>
+							<td></td>
+						</tr>
+						<tr class="repet-names">
+							<td> </td>
+							<td> 19 - Encore - Nobody</td>
+						</tr>
+					</tbody>
+				</table>				
+			</div>
+			<p><i>Photography courtesy of Kojo Acquah and Joseph Lee</i></p>
+			<br>
+		</div>
+
+		-->
+
+		<!-- Template part 2 goes here -->
+
+
 		<div class='content perflinks showcase-pics' id='showcase12'>
 			<h1 class='topic-header'>Dawn</h1>
 			Stay tuned for more info about our Fall 2015 showcase!
@@ -739,8 +853,7 @@
 							<td> 19 - Encore - Nobody</td>
 						</tr>
 					</tbody>
-				</table>				
-			
+				</table>
 			</div>
 			<p><i>Photography courtesy of Kojo Acquah and Joseph Lee</i></p>
 			<br>

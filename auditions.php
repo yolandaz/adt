@@ -1,3 +1,5 @@
+<!-- Auditions Info -->
+
 <div class="content-wrapper">
 	<h1 class="topic-header">General</h1>
 	<p><b style="color:#ff9999">Unfortunately, Fall 2015 auditions have passed.</b> If you're interested in joining in Spring 2016, please watch out on the website for an update in January, or email <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> to be put on an interest list.</p>

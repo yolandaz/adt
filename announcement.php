@@ -1,3 +1,6 @@
+<!-- Announcement (showcase, usually) -->
+
+<!-- Comment this out in index.php if there's no ongoing announcement! -->
 <a id='announcement' name='modalButton' href='#modal'><span class='aText'>Learn about our upcoming showcase!</span><i class="aHide fa fa-comment"></i></a>
 <div id='mask'></div>
 <div id='modal'>
