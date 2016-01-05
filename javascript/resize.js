@@ -10,8 +10,8 @@ $(window).resize(function () {
 
         });
     }
-    windowHeight = $(window).innerHeight();
-    windowWidth = $(window).innerWidth();
+    var windowHeight = $(window).innerHeight();
+    var windowWidth = $(window).innerWidth();
     if (title === 0 && (windowHeight < 600 || windowWidth < 1160)) {
         $(" .title-text").fadeOut(200);
         title = 1

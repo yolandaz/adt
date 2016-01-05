@@ -3,7 +3,6 @@ $(document).ready(function() {
     	event : "click"
     }); 
 	$(".past-showcases img").click(function() {
-		//console.log("#showcase"+$(this).attr("id").substring(6)+">img")
 		$("#showcase"+$(this).attr("id").substring(6)+" img").trigger('click');
     });
     $(".b2").click(function() {

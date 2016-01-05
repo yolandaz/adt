@@ -1,4 +1,5 @@
 <!-- About ADT -->
+<!-- Generally don't change lol. pretty much the same always -->
 
 <div class="about-pics" style="display:inline-block">
 	<div>

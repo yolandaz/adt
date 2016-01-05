@@ -1,3 +1,6 @@
+<!-- Header stuff -->
+<!-- Don't change this file unless you know what you're doing! -->
+
 <meta charset="utf-8" />
 <head>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap-3.3.4-dist/css/bootstrap.min.css"/>

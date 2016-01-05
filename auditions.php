@@ -2,11 +2,14 @@
 
 <div class="content-wrapper">
 	<h1 class="topic-header">General</h1>
-	<p><b style="color:#ff9999">Unfortunately, Fall 2015 auditions have passed.</b> If you're interested in joining in Spring 2016, please watch out on the website for an update in January, or email <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> to be put on an interest list.</p>
+	<!-- Change auditions status after auditions happens! And change it to the date of auditions when it's coming soon. -->
+	<p><b style="color:#ff9999">Spring 2016 Auditions will be held on February 6, 2016 in the BC Porter Room!</b> Email <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> if you have questions; more information will be available later this month!</p>
 	<p>At auditions, you will learn some traditional and hip-hop choreography, as well as preview this semester's pieces. Please wear comfortable clothing that you can move in. Don't worry if you don't have any dance experience! Many of our members join without prior dance experience. We accept all those who audition, regardless of experience, race, age, gender, etc. (Note: You do not have to be a first-year, or even be from MIT, to audition. We welcome any undergraduate or graduate student and would love to have you!*)</p>     
 	<div class="auditions-pics">
 		<img class="lazy" data-original="images/pics/spring2013retreat.jpg" />
 	</div>
+
+	<!-- Meh this stuff is mostly the same, don't change it unless it changed lol -->
 	<h1 class="topic-header push-down">Frequently Asked Questions</h1>
 	<p>If you have a question that is not answered here, send an e-mail to <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a>.</p>
 	<p><span class="question">Q: How many people do you accept? What if I have no dance experience?</span><br />
