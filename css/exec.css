@@ -101,3 +101,75 @@
 	transform: rotate(320deg) translate(15em) rotate(-320deg) scale(1.2);
 	-webkit-transform: rotate(320deg) translate(15em) rotate(-320deg) scale(1.2);
 }
+.deg36 {
+	transform: rotate(36deg) translate(15em) rotate(-36deg);
+	-webkit-transform: rotate(36deg) translate(15em) rotate(-36deg);
+}
+.deg36:hover {
+	transform: rotate(36deg) translate(15em) rotate(-36deg) scale(1.2);
+	-webkit-transform: rotate(36deg) translate(15em) rotate(-36deg) scale(1.2);
+}
+.deg72 {
+	transform: rotate(72deg) translate(15em) rotate(-72deg);
+	-webkit-transform: rotate(72deg) translate(15em) rotate(-72deg);
+}
+.deg72:hover {
+	transform: rotate(72deg) translate(15em) rotate(-72deg) scale(1.2);
+	-webkit-transform: rotate(72deg) translate(15em) rotate(-72deg) scale(1.2);
+}
+.deg108 {
+	transform: rotate(108deg) translate(15em) rotate(-108deg);
+	-webkit-transform: rotate(108deg) translate(15em) rotate(-108deg);
+}
+.deg108:hover {
+	transform: rotate(108deg) translate(15em) rotate(-108deg) scale(1.2);
+	-webkit-transform: rotate(108deg) translate(15em) rotate(-108deg) scale(1.2);
+}
+.deg144 {
+	transform: rotate(144deg) translate(15em) rotate(-144deg);
+	-webkit-transform: rotate(144deg) translate(15em) rotate(-144deg);
+}
+.deg144:hover {
+	transform: rotate(144deg) translate(15em) rotate(-144deg) scale(1.2);
+	-webkit-transform: rotate(144deg) translate(15em) rotate(-144deg) scale(1.2);
+}
+.deg180 {
+	transform: rotate(180deg) translate(15em) rotate(-180deg);
+	-webkit-transform: rotate(180deg) translate(15em) rotate(-180deg);
+}
+.deg180:hover {
+	transform: rotate(180deg) translate(15em) rotate(-180deg) scale(1.2);
+	-webkit-transform: rotate(180deg) translate(15em) rotate(-180deg) scale(1.2);
+}
+.deg216 {
+	transform: rotate(216deg) translate(15em) rotate(-216deg);
+	-webkit-transform: rotate(216deg) translate(15em) rotate(-216deg);
+}
+.deg216:hover {
+	transform: rotate(216deg) translate(15em) rotate(-216deg) scale(1.2);
+	-webkit-transform: rotate(216deg) translate(15em) rotate(-216deg) scale(1.2);
+}
+.deg252 {
+	transform: rotate(252deg) translate(15em) rotate(-252deg);
+	-webkit-transform: rotate(252deg) translate(15em) rotate(-252deg);
+}
+.deg252:hover {
+	transform: rotate(252deg) translate(15em) rotate(-252deg) scale(1.2);
+	-webkit-transform: rotate(252deg) translate(15em) rotate(-252deg) scale(1.2);
+}
+.deg288 {
+	transform: rotate(288deg) translate(15em) rotate(-288deg);
+	-webkit-transform: rotate(288deg) translate(15em) rotate(-288deg);
+}
+.deg288:hover {
+	transform: rotate(288deg) translate(15em) rotate(-288deg) scale(1.2);
+	-webkit-transform: rotate(288deg) translate(15em) rotate(-288deg) scale(1.2);
+}
+.deg324 {
+	transform: rotate(324deg) translate(15em) rotate(-324deg);
+	-webkit-transform: rotate(324deg) translate(15em) rotate(-324deg);
+}
+.deg324:hover {
+	transform: rotate(324deg) translate(15em) rotate(-324deg) scale(1.2);
+	-webkit-transform: rotate(324deg) translate(15em) rotate(-324deg) scale(1.2);
+}

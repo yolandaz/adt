@@ -17,7 +17,7 @@ $(document).ready(function() {
     $(".b5").click(function() {
     	$(".circle-container img").trigger('click');
     })
-    $(".b8").click(function() {
+    $(".b7").click(function() {
     	$(".extperf-pics img").trigger('click');
     })
 });

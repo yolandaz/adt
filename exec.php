@@ -24,15 +24,15 @@
 
 		<!-- 10 people -->
 		
-		<img class='deg0' src='images/exec/anita.png'>
-		<img class='deg36' src='images/exec/weilian.jpg'>
-		<img class='deg72' src='images/exec/liang.jpg'>
-		<img class='deg108' src='images/exec/tracy.jpg'>
-		<img class='deg144' src='images/exec/lucia.png'>
-		<img class='deg180' src='images/exec/valentina.jpg'>
+		<img class='deg0' src='images/exec/valentina.jpg'>
+		<img class='deg36' src='images/exec/liang.jpg'>
+		<img class='deg72' src='images/exec/michelle.jpg'>
+		<img class='deg108' src='images/exec/yolanda.jpg'>
+		<img class='deg144' src='images/exec/sabina.jpg'>
+		<img class='deg180' src='images/exec/james.jpg'>
 		<img class='deg216' src='images/exec/monde.jpg'>
-		<img class='deg252' src='images/exec/minerva.jpg'>
-		<img class='deg288' src='images/exec/abigail.png'>
+		<img class='deg252' src='images/exec/weilian.jpg'>
+		<img class='deg288' src='images/exec/anita.jpg'>
 		<img class='deg324' src='images/exec/abigail.png'>
 		
 	</div>
