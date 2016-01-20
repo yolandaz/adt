@@ -153,15 +153,73 @@
 
 		<!-- Template part 2 goes here -->
 
-
-		<div class='content perflinks showcase-pics' id='showcase12'>
-			<h1 class='topic-header'>Dawn</h1>
-			Stay tuned for more info about our Fall 2015 showcase!
+		<div class="content perflinks showcase-pics" id="showcase12">
+			<h1 class="topic-header">Dawn</h1>
+			<p>We performed our Fall 2015 showcase, Dawn (晓破星沉), on December 9 and 10 in MIT's Walker Memorial! Our dancers were part of spectacular Dai, Tibetan, and Xinjiang ethnic pieces, classical and contemporary dances, as well as hip-hop pieces by BTS, Monsta X, Boyfriend, and Spica! We also hosted guest performances from groups such as MIT Ohms and Dance Revelasian.</p>
+			<p>Watch the videos <a href="https://www.youtube.com/playlist?list=PLW0xC9CIbqVP0yehAOUFqLQ_dPcvnuCsc">here</a>!</p>
+			<div class="repet-table">
+				<table>
+					<tbody>
+						<tr>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/fa15/intoyou.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/fa15/beautifulblossoms.JPG"></td>
+							<td><img class="lazy" data-original="images/repertoire/fa15/illbethere.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 01 - Into You</td>
+							<td> 02 - Beautiful Blossoms</td>
+							<td> 03 - I'll Be There</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/fa15/warofhormone.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/fa15/thosebygoneyears.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/fa15/execfa15.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 04 - War of Hormone</td>
+							<td> 05 - Those Bygone Years</td>
+							<td> 06 - Exec Interlude</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/fa15/spinspinspin.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/fa15/monstark.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/fa15/heavenspath.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 07 - Turn, Turn, Turn</td>
+							<td> 08 - Monstark</td>
+							<td> 09 - Heaven's Path</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/fa15/gun.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/fa15/remembrance.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/fa15/luckyguy.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 10 - Gun</td>
+							<td> 11 - Remembrance</td>
+							<td> 12 - Lucky Guy</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/fa15/dancingintherain.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/fa15/janus.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 13 - Dancing in the Rain</td>
+							<td> 14 - Janus</td>
+						</tr>
+					</tbody>
+				</table>				
+			</div>
+			<p><i>Photography courtesy of Landon Carter, John Chow, and Alex Bost!</i></p>
+			<br>
 		</div>
 		<div class="content perflinks showcase-pics" id="showcase11">
 			<h1 class="topic-header">Eclipse</h1>
 			<p>We performed our Spring 2015 showcase, Eclipse, in MIT's Kresge Little Theater on May 14 and 15. In this showcase, we featured Han, Dai, Xinjiang, and Mongolian ethnic pieces, classical and contemporary dances, as well as hip-hop pieces by Akdong Musician, B1A4, Infinite, Kara, and more! We also host guested performances from groups including MIT Lion Dance, Syncopasian, and Dance Revelasian!</p>
-			<p>Click to see the <a href="https://picasaweb.google.com/109256026420262857474/CheckmateSpring2014">photos</a> and watch the <a href="https://www.youtube.com/playlist?list=PLW0xC9CIbqVOeyhEYmVOcukt5AUDeDFZF">videos</a>!</p>
+			<p>Watch the showcase <a href="https://www.youtube.com/playlist?list=PLW0xC9CIbqVOeyhEYmVOcukt5AUDeDFZF">videos</a>!</p>
 			<div class="repet-table">
 				<table>
 					<tbody>
@@ -183,7 +241,7 @@
 							<td><img class="lazy" data-original="images/repertoire/sp15/08-nasty.jpg"></td>
 						</tr>
 						<tr class="repet-names">
-							<td> 06 - Lonely Footsteps</td>
+							<td> 06 - Lonely + Tried to Walk (B1A4)</td>
 							<td> 07 - Rhythm of the Mountain</td>
 							<td> 08 - Knock</td>
 						</tr>
@@ -203,7 +261,7 @@
 							<td><img class="lazy" data-original="images/repertoire/sp15/15-senior.jpg"></td>
 						</tr>
 						<tr class="repet-names">
-							<td> 13 - Give ALL the Love!</td>
+							<td> 13 - Give ALL The Love!</td>
 							<td> 14 - Lighting the Lanterns</td>
 							<td> 15 - Senior Interlude</td>
 						</tr>
