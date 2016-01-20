@@ -3,7 +3,7 @@
 <div class="content-wrapper">
 	<h1 class="topic-header">General</h1>
 	<!-- Change auditions status after auditions happens! And change it to the date of auditions when it's coming soon. -->
-	<p><b style="color:#ff9999">Spring 2016 Auditions will be held on February 6, 2016 in the BC Porter Room!</b> Email <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> if you have questions; more information will be available later this month!</p>
+	<p><b style="color:#ff9999">Spring 2016 Auditions will be held on February 6, 2016 from 3pm - 6:30pm in the BC Porter Room!</b> If you'd like to audition, please fill out <a href="http://goo.gl/forms/Zle05ZdHTq">this form</a>! Email <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> if you have questions or wish to request a makeup audition. You can see our spring 2016 auditions policy <a href="http://goo.gl/0ExUoF">here</a>.</p>
 	<p>At auditions, you will learn some traditional and hip-hop choreography, as well as preview this semester's pieces. Please wear comfortable clothing that you can move in. Don't worry if you don't have any dance experience! Many of our members join without prior dance experience. We accept all those who audition, regardless of experience, race, age, gender, etc. (Note: You do not have to be a first-year, or even be from MIT, to audition. We welcome any undergraduate or graduate student and would love to have you!*)</p>     
 	<div class="auditions-pics">
 		<img class="lazy" data-original="images/pics/spring2013retreat.jpg" />
