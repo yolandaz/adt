@@ -17,6 +17,8 @@ $(document).ready(function() {
 	var x = 0;
 	var y = 0;
 	$('.b1').click(function(){
+		var h = $(window).outerHeight()
+		var w = $(window).outerWidth()
 		if (x == 0 && y == 0) {
 			x = 1;
 			if (curtab != 1) {
@@ -28,12 +30,12 @@ $(document).ready(function() {
 					$(".tabContent").css({'overflow': 'visible'});	
 					$('div.title-text').text('');
 					$('#announcement').animate({
-						bottom: $(window).innerHeight()/2 + 80 + 'px'
+						bottom: h/2 + 80 + 'px'
 					}, 600)
 					$('#wrapper').animate({
-						top: $(window).innerHeight()/2 - 80 + 'px',
+						top: h/2 - 80 + 'px',
 						height: '160px',
-						left: $(window).innerWidth()/2 - 290 + 'px',
+						left: w/2 - 290 + 'px',
 						width: '580px'
 					}, 600);
 					$("#menu a").animate({
@@ -59,7 +61,6 @@ $(document).ready(function() {
     	if (y == 0 && x == 0) {
     		y = 1;
 	    	var buttonId = $(this).attr('class');
-	    	//console.log(buttonId);
 		    if (curtab != buttonId.charAt(1)) {
 		    	$('div.tabContent').fadeOut(600);
 		    	$('div.title-text').fadeOut(600);
@@ -69,14 +70,13 @@ $(document).ready(function() {
 					$('.tabContent').css({'overflow':'auto'});
 					$('div.title-text').text(titles[curtab-1]);
 					$('#announcement').animate({
-						bottom: Math.max($(window).innerHeight()/2 - 516, $(window).innerHeight()*.06) + $(window).innerHeight() - 2*Math.max($(window).innerHeight()/2 - 516, $(window).innerHeight()*.06) + 'px'
+						bottom: Math.max(h/2 - 516, h*.06) + h - 2*Math.max(h/2 - 516, h*.06) + 'px'
 					}, 600)
 					$('#wrapper').animate({
-						top: Math.max($(window).innerHeight()/2 - 516, $(window).innerHeight()*.06)+'px',
-						height: $(window).innerHeight() - 2*Math.max($(window).innerHeight()/2 - 516, $(window).innerHeight()*.06)+'px',
-						left: Math.max($(window).innerWidth()/2 - 650, $(window).innerWidth()*.15)+'px',
-						width: $(window).innerWidth() - 2*Math.max($(window).innerWidth()/2 - 650, $(window).innerWidth()*.15)+'px',
-
+						top: Math.max(h/2 - 516, h*.06)+'px',
+						height: h - 2*Math.max(h/2 - 516, h*.06)+'px',
+						left: Math.max(w/2 - 650, w*.15)+'px',
+						width: w - 2*Math.max(w/2 - 650, w*.15)+'px'
 					}, 600);
 					$("#menu a").animate({
 						padding: '5px 20px 5px',
@@ -87,7 +87,7 @@ $(document).ready(function() {
 					}, 600);
 				}, 600);
 				setTimeout(function() {
-					if ($(window).innerHeight() >= 600 && $(window).innerWidth() >= 1160) {
+					if (h >= 600 && w >= 1160) {
 				        $(".title-text").fadeIn(400);
 				    }
 		        	$('div#ta'+buttonId).fadeIn(400);
