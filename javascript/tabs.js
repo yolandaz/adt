@@ -5,11 +5,11 @@ $(document).ready(function() {
 	var titles = ["", "About Us", "Members", "Members", "Members", "Performances", "Performances", "Performances"];
 	$('#wrapper').css('top', '50%').css('top', '-=80px');
 	$('#wrapper').css('left', '50%').css('left', '-=290px');
-	if ($(window).innerHeight() < 600 || $(window).innerWidth() < 1160) {
+	if ($(window).outerHeight() < 600 || $(window).outerWidth() < 1160) {
 		$(" .title-text").hide();
         title = 1;
     }
-	if ($(window).innerWidth() < 770) {
+	if ($(window).outerWidth() < 770) {
 		$('#menu').hide();
 	} else {$('#menu-sm').hide();}
 	curtab = 1;
@@ -17,11 +17,11 @@ $(document).ready(function() {
 	var x = 0;
 	var y = 0;
 	$('.b1').click(function(){
-		var h = $(window).outerHeight()
-		var w = $(window).outerWidth()
 		if (x == 0 && y == 0) {
 			x = 1;
 			if (curtab != 1) {
+				var h = $(window).outerHeight()
+				var w = $(window).outerWidth()
 				$('div.tabContent').fadeOut(600);
 				$('div.title-text').fadeOut(600);
 				$('#logo').fadeOut(600);
@@ -62,6 +62,8 @@ $(document).ready(function() {
     		y = 1;
 	    	var buttonId = $(this).attr('class');
 		    if (curtab != buttonId.charAt(1)) {
+		    	var h = $(window).outerHeight()
+				var w = $(window).outerWidth()
 		    	$('div.tabContent').fadeOut(600);
 		    	$('div.title-text').fadeOut(600);
 		    	$('#logo').fadeOut(600);

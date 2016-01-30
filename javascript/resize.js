@@ -9,7 +9,6 @@ $(window).resize(function () {
             'height': h - 2*Math.max(h/2 - 516, h*.06)+'px',
             'left': Math.max(w/2 - 650, w*.15)+'px',
             'width': w - 2*Math.max(w/2 - 650, w*.15)+'px',
-
         });
     }
     if (title === 0 && (h < 600 || w < 1160)) {
