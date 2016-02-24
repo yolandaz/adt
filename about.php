@@ -14,6 +14,6 @@
 		<img class="lazy" data-original="images/pics/letsstepup2.jpg" align="left" style="margin-right: 20px"/>
 		<h1 class="topic-header">Being on the Team</h1>
 		<p>Each semester, members attend rehearsals for pieces in preparation for the end-of-term showcase. Members are given the freedom to choose how many pieces, as well as which pieces, to be part of, and attend weekly practices for each of their dances. While many of our pieces are adapted from award-winning pieces in China's dance competitions or choreography from renowned Asian hip-hop groups, many others are composed of original choreography by our own members.</p>
-		<p>We also host several social events throughout the semester. Though we are focused primarily on East Asian dance, MIT ADT is also a great way to get to know other people and have some fun!</p>
+		<p>We also host several social events throughout the semester. Though we are focused primarily on East Asian dance, ADT is also a great way to get to know other people and have some fun!</p>
 	</div>
 </div>
