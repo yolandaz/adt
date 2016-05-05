@@ -1,5 +1,4 @@
 <!-- External Performances -->
-
 <!-- If we do an external that's not listed on here, add it! -->
 
 <h1 class="topic-header">External Performances*</h1>

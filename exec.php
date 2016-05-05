@@ -4,7 +4,6 @@
 	<br><br><br><br>
 	<div class='circle-container'>
 		<h1 id='center0'>ADT Executive Board</h1>
-		<!-- Change date as appropriate -->
 		<h3 id='center1'>Spring 2016</h3>
 
 		<!-- Comment/uncomment the appropriate section depending on how many people are on exec! -->
@@ -24,7 +23,7 @@
 
 		<!-- 10 people -->
 		
-		<img class='deg0' src='images/exec/valentina.jpg'>
+		<img class='deg0' src='images/exec/lucy.jpg'>
 		<img class='deg36' src='images/exec/liang.jpg'>
 		<img class='deg72' src='images/exec/michelle.jpg'>
 		<img class='deg108' src='images/exec/yolanda.jpg'>

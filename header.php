@@ -1,5 +1,5 @@
 <!-- Header stuff -->
-<!-- Don't change this file unless you know what you're doing! -->
+<!-- don't edit this unless you know what you're doing! -->
 
 <meta charset="utf-8" />
 <head>

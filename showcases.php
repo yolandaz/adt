@@ -10,7 +10,8 @@
 		<div class="past-showcases shows1">
 
 			<!--
-			Template for new showcase part 1
+
+			Template for new showcase poster
 			Copy/paste below, and replace date + image link + increment image id as appropriate
 
 			<div><a href="#"><img id="poster12" src="images/posters/dawn.png"></a>
@@ -19,7 +20,7 @@
 
 			-->
 
-			<!-- Template part 1 goes here -->
+			<!-- New poster goes below -->
 
 
 			<div><a href="#"><img id="poster12" src="images/posters/dawn.png"></a>
@@ -61,7 +62,7 @@
 		</div>
 
 		<!--
-		Template for new showcase part 2
+		Template for showcase pictures
 		Copy/paste stuff below, change wordings/links, increment the showcase id as appropriate
 
 		<div class="content perflinks showcase-pics" id="showcase1">
@@ -151,7 +152,7 @@
 
 		-->
 
-		<!-- Template part 2 goes here -->
+		<!-- New showcase pictures goes below -->
 
 		<div class="content perflinks showcase-pics" id="showcase12">
 			<h1 class="topic-header">Dawn</h1>

@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- header -->
 <?php include("header.php"); ?>
 
 <body>
@@ -35,7 +36,8 @@
 		</div>
 	</div>
 	<!-- Comment the announcement out if there's no announcement! -->
-	<!-- ?php include("announcement.php"); ? -->
+
+	<?php include("announcement.php"); ?>
 
 	<!-- Google Analytics - maybe ~5 - 10 ppl a day go on our site? More during audition/showcase week -->
 	<script>
