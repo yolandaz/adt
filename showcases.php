@@ -22,7 +22,9 @@
 
 			<!-- New poster goes below -->
 
-
+			<div><a href="#"><img id="poster13" src="images/posters/reflections.png"></a>
+				<b>Reflections</b><small><small><br>Spring 2016</small></small>
+			</div>
 			<div><a href="#"><img id="poster12" src="images/posters/dawn.png"></a>
 				<b>Dawn</b><small><small><br>Fall 2015</small></small>
 			</div>
@@ -153,6 +155,10 @@
 		-->
 
 		<!-- New showcase pictures goes below -->
+		<div class="content perflinks showcase-pics" id="showcase13">
+			<h1 class="topic-header">Reflections</h1>
+			<p>Stay tuned for pictures and links from our Spring 2016 showcase!</p>
+		</div>
 
 		<div class="content perflinks showcase-pics" id="showcase12">
 			<h1 class="topic-header">Dawn</h1>
