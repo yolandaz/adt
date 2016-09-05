@@ -83,64 +83,57 @@ $(document).ready(function() {
 		$("#center0").text("ADT Executive Board");
     	$("#center1").text("Spring 2016");
 	});
-	$('.deg36').hover(function(){
+	$('.deg40').hover(function(){
     	$("#center0").text("Liang Zhou '18");
     	$("#center1").text("Director of Internal Relations")
 	}, function() {
 		$("#center0").text("ADT Executive Board");
     	$("#center1").text("Spring 2016");
 	});
-	$('.deg72').hover(function(){
+	$('.deg80').hover(function(){
     	$("#center0").text("Michelle Huang '19");
-    	$("#center1").text("Director of Publicity")
+    	$("#center1").text("Director of Public Relations")
 	}, function() {
 		$("#center0").text("ADT Executive Board");
     	$("#center1").text("Spring 2016");
 	});
-	$('.deg108').hover(function(){
-    	$("#center0").text("Yolanda Zhou '19");
-    	$("#center1").text("Director of Sales and Media")
+	$('.deg120').hover(function(){
+    	$("#center0").text("Nancy Luong '19");
+    	$("#center1").text("Director of Marketing")
 	}, function() {
 		$("#center0").text("ADT Executive Board");
     	$("#center1").text("Spring 2016");
 	});
-	$('.deg144').hover(function(){
-    	$("#center0").text("Sabina Chen '19");
-    	$("#center1").text("Director of Sales and Media")
+	$('.deg160').hover(function(){
+    	$("#center0").text("Rachel Wu '19");
+    	$("#center1").text("Director of Marketing")
 	}, function() {
 		$("#center0").text("ADT Executive Board");
     	$("#center1").text("Spring 2016");
 	});
-	$('.deg180').hover(function(){
+	$('.deg200').hover(function(){
     	$("#center0").text("James Roggeveen '18");
-    	$("#center1").text("Director of Logistics")
+    	$("#center1").text("Technical Director")
 	}, function() {
 		$("#center0").text("ADT Executive Board");
     	$("#center1").text("Spring 2016");
 	});
-	$('.deg216').hover(function(){
-    	$("#center0").text("Monde Duinkharjav '18");
-    	$("#center1").text("Director of Logistics")
-	}, function() {
-		$("#center0").text("ADT Executive Board");
-    	$("#center1").text("Spring 2016");
-	});
-	$('.deg252').hover(function(){
+	$('.deg240').hover(function(){
     	$("#center0").text("Weilian Chu '17");
     	$("#center1").text("Director of Executive Planning")
 	}, function() {
 		$("#center0").text("ADT Executive Board");
     	$("#center1").text("Spring 2016");
 	});
-	$('.deg288').hover(function(){
+	$('.deg280').hover(function(){
     	$("#center0").text("Anita Liu '17");
     	$("#center1").text("Director of Executive Planning")
 	}, function() {
 		$("#center0").text("ADT Executive Board");
     	$("#center1").text("Spring 2016");
 	});
-	$('.deg324').hover(function(){
-    	$("#center0").text("Abigail Choe '17");
+	$('.deg320').hover(function(){
+    	$("#center0").text("Vivian Zhong '19");
     	$("#center1").text("Director of Finance")
 	}, function() {
 		$("#center0").text("ADT Executive Board");

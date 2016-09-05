@@ -3,7 +3,7 @@
 $(window).load(function() {
 	var images = new Array();
 	//change numPictures depending on how many pictures you want to rotate
-	var numPictures = 11;
+	var numPictures = 12;
 
 	for (i = 1; i <= numPictures; i++) {
 		images.push("images/background/adt"+i+".jpg");

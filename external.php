@@ -40,7 +40,7 @@
 	<div class="col-md-6 extperf-pics">
 		<img class="lazy" data-original="images/pics/fusion.jpg"/>
 		<img class="lazy" data-original="images/pics/bts.jpg"/>
-		<img class="lazy" data-original="images/pics/Leapofthestring.jpg"/>
+		<img class="lazy" data-original="images/pics/springpoem.jpg"/>
 	</div>
 </div>
 <p><i>*Only performances after August 2012 are listed.</i></p>
