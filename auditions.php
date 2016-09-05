@@ -2,6 +2,7 @@
 
 <div class="content-wrapper">
 	<h1 class="topic-header">General</h1>
+	<!-- Change auditions status after auditions happens! And change it to the date of auditions when it's coming soon. -->
 	<p>
 		<b style="color:#ff9999">Spring 2016 Auditions have passed.</b> If you're interested in joining in a later term, please email <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> to be put on our interest list!
 	</p>

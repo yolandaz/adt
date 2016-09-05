@@ -4,6 +4,7 @@
 	<br><br><br><br>
 	<div class='circle-container'>
 		<h1 id='center0'>ADT Executive Board</h1>
+		<!-- Change date as appropriate -->
 		<h3 id='center1'>Spring 2016</h3>
 
 		<!-- Comment/uncomment the appropriate section depending on how many people are on exec! -->

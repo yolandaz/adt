@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<LINK href="style.css" rel="stylesheet" type="text/css">
+	<script language="JavaScript" src="scripts/gen_validatorv31.js" type="text/javascript"></script>
+	<script type="text/javascript" src="contactus.js"></script>
+	<title>MIT ADT - Contact Us</title>
+	<link 	rel="icon"
+		type="image/png"
+		href="/websitefavicon.png" />
+</head>
+
+<body>
+	<div id="wrapper">	
+	<div id="left-sidebar">
+		<div id="logo">
+			<img src="images/adtlogomulti2.png" usemap="#logowlinks" />
+			<div id="navlinks">
+				<a href="index.html">Home</a><br />
+				<a href="about.html">About</a><br />
+				<a href="news.html">News</a><br />
+				<a href="auditions.html">Auditions</a><br />
+				<a href="members.html">Members</a><br />
+				<a href="performances.html">Performances</a><br />
+				<a href="contactus.html">Contact Us</a><br />
+			</div>
+		</div>
+		<div id="media">
+		</div>
+	</div>
+	<div id="page-body">
+		<div id="banner">
+			<a href="index.html"><img src="images/mitadtweblogo.png" /></a>
+		</div>
+
+		<div class="content">
+			<h1 class="topic-header">Contact Us</h1>
+			<p>Have questions about the team?<br>
+			Interested in having us perform at your event?<br>
+			Need to contact us for any other reason?</p>
+			
+			<p id="perflinks">Please use the following form.<br>
+			If it doesn't work, <a href="mailto:adt-exec@mit.edu">email us</a> directly.  If you wish to receive a reply, <br>
+			please include any email address.  We will try to respond within 3-5 days.  Thanks!</p>
+			
+			<form name="contactform" class="contact-table" action="contactus.php" onsubmit="return validateForm()" method="post" >
+				<table>
+					<tbody>
+						<tr class="contact-boxes">
+							<td>Name:</td>
+							<td><input type="text" name="name"></td>
+						</tr>
+						<tr class="contact-boxes">
+							<td>Email address: </td>
+							<td><input type="text" name="email"></td>
+						</tr>
+						<tr class="contact-boxes">
+							<td>Subject: </td>
+							<td><input type="text" name="subject"></p></td>
+						</tr>
+						<tr class="contact-boxes">
+							<td>Message: </td>
+							<td><textarea name="message" rows="10" cols="40"></textarea></td>	
+						</tr>
+					</tbody>
+				</table>
+				<div id="contact-button">
+					<span><input type="submit" value="Send"></span>
+					<span><input type="reset" value="Clear"></span>
+				</div>
+			</form>
+		</div>
+	</div>
+	<div class="push"></div>
+</div>
+<div class="footer">
+	<div id="foot-links">
+		<span><a href="index.html">Home</a></span>|<span><a href="about.html">About</a></span>|<span><a href="members.html">Members</a></span>|<span><a href="performances.html">Performances</a></span>|<span><a href="contactus.html">Contact Us</a></span>
+	</div>
+	<p>Last updated on September 1, 2013.</p>
+</div>
+</body>
+</html>
