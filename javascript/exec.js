@@ -78,7 +78,7 @@ $(document).ready(function() {
 $(document).ready(function() {
 	$('.deg0').hover(function(){
     	$("#center0").text("Xinyi (Lucy) Chen '19");
-    	$("#center1").text("Director of External Relations");
+    	$("#center1").text("Technical Director");
 	}, function() {
 		$("#center0").text("ADT Executive Board");
     	$("#center1").text("Spring 2016");
