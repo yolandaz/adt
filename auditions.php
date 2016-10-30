@@ -4,13 +4,12 @@
 	<h1 class="topic-header">General</h1>
 	<!-- Change auditions status after auditions happens! And change it to the date of auditions when it's coming soon. -->
 	<p>
-		<b style="color:#ff9999">The Fall 2016 MIT Asian Dance Team auditions will be held in the BC Porter Room (Note: NOT McCormick) on Saturday, September 10, starting at 3 pm! The auditions will go until 6 pm.</b> 
+		<b style="color:#ff9999">Fall 2016 Auditions have passed.</b> If you're interested in joining in a later term, please email <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> to be put on our interest list!
 	</p>
 	<!--
 	<p>
-		<b style="color:#ff9999">Spring 2016 Auditions have passed.</b> If you're interested in joining in a later term, please email <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> to be put on our interest list!
+		<b style="color:#ff9999">The Fall 2016 MIT Asian Dance Team auditions will be held in the BC Porter Room (Note: NOT McCormick) on Saturday, September 10, starting at 3 pm! The auditions will go until 6 pm.</b> 
 	</p>
-	-->
 
 
 	<p>
@@ -32,6 +31,7 @@
 	<p>
 		If you won't be able to make the auditions, but still wish to join, please contact <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> by 11:59 pm on WEDNESDAY to see if we can make alternate arrangement.
 	</p>     
+	-->
 	<div class="auditions-pics">
 		<img class="lazy" data-original="images/pics/spring2013retreat.jpg" />
 	</div>

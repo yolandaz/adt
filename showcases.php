@@ -155,10 +155,104 @@
 		-->
 
 		<!-- New showcase pictures goes below -->
+
+
+
+
 		<div class="content perflinks showcase-pics" id="showcase13">
 			<h1 class="topic-header">Reflections</h1>
+	<!--
 			<p>Stay tuned for pictures and links from our Spring 2016 showcase!</p>
 		</div>
+	-->
+			<p>We performed our Spring 2016 showcase, Reflections (行思坐忆), on May 12 at La Sala de PuertoRico! Our dancers were part of spectacular Jiaozhou Yangge, Yi, and Mongolian ethnic pieces, classical and contemporary dances, as well as hip-hop pieces by GOO Hara, Dynamic Duo, EXO, and Seventeen!</p>
+			<p>Click to watch the <a href="https://www.youtube.com/playlist?list=PLW0xC9CIbqVNEgsjg4dHDEH0OLWZEgWkh">videos</a>!</p>
+			<div class="repet-table">
+				<table>
+					<tbody>
+						<tr>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/sp16/choco.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp16/FSYY.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp16/sweetgirl.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 01 - Choco BAAAM</td>
+							<td> 02 - Memories in the Wind</td>
+							<td> 03 - Sweet Girl / To You</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/sp16/HHLY.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp16/megustas.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp16/reflection.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 04 - Invocation of Greenery</td>
+							<td> 05 - Me Gustas Tu</td>
+							<td> 06 - Reflections Interlude</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/sp16/execinterlude.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp16/whatu.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp16/catharsis.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 07 - Exec Interlude</td>
+							<td> 08 - What U</td>
+							<td> 09 - Catharsis</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/sp16/mansae.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp16/plum.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp16/witch.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 10 - Mansae</td>
+							<td> 11 - Plum Blossoms</td>
+							<td> 12 - Witch</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/sp16/thousandmiles.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp16/hiphopinterlude.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp16/badboiz.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 13 - A Thousand Miles (Contemp)</td>
+							<td> 14 - No Exit interlude</td>
+							<td> 15 - Bad Boiz interlude</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/sp16/longing.jpg"/></td>
+							<td><img class="lazy" data-original="images/repertoire/sp16/oohahh.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp16/seniorinterlude.jpg"/></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 16 - Longing</td>
+							<td> 17 - Ooh Ahh</td>
+							<td> 18 - Senior Interlude</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/repertoire/sp16/yingtai.jpg"></td>
+							<td><img class="lazy" data-original="images/repertoire/sp16/MAMA.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> 19 - Ying Tai’s Debut</td>
+							<td> 20 - MAMA</td>
+						</tr>
+						</tr>
+					</tbody>
+				</table>				
+			</div>
+			<p><i>Photography courtesy of Olivia Chong and Landon Carter</i></p>
+			<br>
+		</div>
+
+
+
+
+
+
 
 		<div class="content perflinks showcase-pics" id="showcase12">
 			<h1 class="topic-header">Dawn</h1>

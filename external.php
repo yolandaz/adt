@@ -38,8 +38,8 @@
 		</ul>
 	</div>
 	<div class="col-md-6 extperf-pics">
-		<img class="lazy" data-original="images/pics/fusion.jpg"/>
-		<img class="lazy" data-original="images/pics/bts.jpg"/>
+		<img class="lazy" data-original="images/pics/HHLY.jpg"/>
+		<img class="lazy" data-original="images/pics/witch.jpg"/>
 		<img class="lazy" data-original="images/pics/springpoem.jpg"/>
 	</div>
 </div>
