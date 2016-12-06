@@ -22,6 +22,9 @@
 
 			<!-- New poster goes below -->
 
+			<div><a href="#"><img id="poster14" src="images/posters/fairytale.jpg"></a>
+				<b>Fairytale</b><small><small><br>Fall 2016</small></small>
+			</div>
 			<div><a href="#"><img id="poster13" src="images/posters/reflections.png"></a>
 				<b>Reflections</b><small><small><br>Spring 2016</small></small>
 			</div>
@@ -146,7 +149,7 @@
 							<td> 19 - Encore - Nobody</td>
 						</tr>
 					</tbody>
-				</table>				
+				</table>
 			</div>
 			<p><i>Photography courtesy of Kojo Acquah and Joseph Lee</i></p>
 			<br>
@@ -156,6 +159,10 @@
 
 		<!-- New showcase pictures goes below -->
 
+		<div class="content perflinks showcase-pics" id="showcase14">
+			<h1 class="topic-header">Fairytale</h1>
+			<p>Stay tuned for pictures and links from our Fall 2016 showcase!</p>
+		</div>
 
 
 
@@ -242,7 +249,7 @@
 						</tr>
 						</tr>
 					</tbody>
-				</table>				
+				</table>
 			</div>
 			<p><i>Photography courtesy of Olivia Chong and Landon Carter</i></p>
 			<br>
@@ -312,7 +319,7 @@
 							<td> 14 - Janus</td>
 						</tr>
 					</tbody>
-				</table>				
+				</table>
 			</div>
 			<p><i>Photography courtesy of Landon Carter, John Chow, and Alex Bost!</i></p>
 			<br>
@@ -377,7 +384,7 @@
 							<td> 18 - Moonlight Poem</td>
 						</tr>
 					</tbody>
-				</table>				
+				</table>
 			</div>
 			<p><i>Photography Credits: Kojo Acquah, Bert Halstead</i></p>
 			<br>
@@ -440,7 +447,7 @@
 							<td> 16 - Resurrection</td>
 						</tr>
 					</tbody>
-				</table>				
+				</table>
 			</div>
 			<p><i>Photography Credits: Kojo Acquah</i></p>
 			<br>
@@ -495,7 +502,7 @@
 							<td> 16 - Chess</td>
 						</tr>
 					</tbody>
-				</table>				
+				</table>
 			</div>
 			<p><i>Photography Credits: Supergirl - Joseph Lee, Rest - Kojo Acquah</i></p>
 			<br>
@@ -549,7 +556,7 @@
 							<td> 15 - Flying Horses</td>
 						</tr>
 					</tbody>
-				</table>				
+				</table>
 			</div>
 			<p><i>Photography courtesy of Kojo Acquah</i></p>
 			<br>
@@ -625,8 +632,8 @@
 							<td></td>
 						</tr>
 					</tbody>
-				</table>				
-			
+				</table>
+
 			</div>
 			<p><i>Photography courtesy of Kojo Acquah and Joseph Lee</i></p>
 			<br>
@@ -680,7 +687,7 @@
 							<td> 15 - July Torch Festival</td>
 						</tr>
 					</tbody>
-				</table>				
+				</table>
 			</div>
 			<p><i>Photography courtesy of Kojo Acquah and Joseph Lee</i></p>
 			<br>
@@ -725,10 +732,10 @@
 							<td> 08 - Martial Arts - Flag</td>
 							<td> 09 - Martial Arts - Unity</td>
 						</tr>
-						
+
 					</tbody>
-				</table>				
-			
+				</table>
+
 			</div>
 			<p><i>Photography courtesy of Kojo Acquah and Joseph Lee</i></p>
 			<br>
@@ -813,7 +820,7 @@
 			<h1 class="topic-header">Inspirasian - 2011</h1>
 			<p>Spring 2011 was the inaugural year of Inspirasian, the annual Boston Asian Performing Arts Festival. As the hosts, the MIT Asian Dance Team was responsible for the brilliant opening and closing pieces, along with quite a few others sprinkled in-between. Joining us were many of Boston's finest dance and music groups, from Dance Revelasian, a semi-professional Chinese dance troupe, to MIT's very own Syncopasian acappella group. Hover over the photos below for more information about ADT's pieces!</p>
 			<p>The Elements suite was a collaboration between four of ADT's choreographers - Cynthia Lu '12 (Earth), Yiling Chen '13 (Air), Jocelyn Lu '12 (Water), and Vivian Lee '12 (Fire). Drawing from a variety of styles and specialities, ADT was able to present a breathtaking opening piece filled with colour and extravagance. All of the Elements performers came together at the end of the show to perform "Unity", in which each of the elements were showcased and brought together for a whirlwind-like dramatic expose.</p>
-			
+
 			<p>Click to see the <a href="https://picasaweb.google.com/109256026420262857474/InspirasianSpring2011#slideshow/5762887774310489570">photos</a> and the <a href="http://www.youtube.com/playlist?list=PLW0xC9CIbqVPiyRpnJjetgfn8CTCYiLgo">performance videos</a>! </p>
 			<div class="repet-table">
 				<table>
@@ -850,8 +857,8 @@
 
 						</tr>
 					</tbody>
-				</table>				
-			
+				</table>
+
 			</div>
 			<p><i>Photography courtesy of Kojo Acquah and Joseph Lee</i></p>
 			<br>
@@ -859,7 +866,7 @@
 		<div class="content perflinks showcase-pics" id="showcase2">
 			<h1 class="topic-header">Resonant Blue</h1>
 			<p>The MIT Asian Dance Team fall 2010 showcase was named Resonant Blue, after a famous Japanese pop song by girl group Morning Musume). In this 16-piece program, the audience was taken through a journey of the darker side of love, life, and memory, with everything from majestic Mongolian dances to lyrical love songs to gorgeous classical Chinese fan dances to sexy Korean hiphop.</p>
-			
+
 			<p>Click to see the <a href="https://picasaweb.google.com/109256026420262857474/ResonantBlueFall2010#slideshow/5762892044892200226">photos</a> and watch the <a href="http://www.youtube.com/playlist?list=PL57B6B066E59A614C">videos</a>!</p>
 			<div class="repet-table">
 				<table>
@@ -927,8 +934,8 @@
 							<td> 18 - Resonant Blue</td>
 						</tr>
 					</tbody>
-				</table>				
-			
+				</table>
+
 			</div>
 			<p><i>Photography courtesy of Kojo Acquah and Joseph Lee</i></p>
 			<br>
@@ -1017,5 +1024,5 @@
 			<p><i>Photography courtesy of Kojo Acquah and Joseph Lee</i></p>
 			<br>
 		</div>
-	</div>		
+	</div>
 </div>
