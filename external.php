@@ -1,4 +1,5 @@
 <!-- External Performances -->
+
 <!-- If we do an external that's not listed on here, add it! -->
 
 <h1 class="topic-header">External Performances*</h1>
@@ -37,9 +38,9 @@
 		</ul>
 	</div>
 	<div class="col-md-6 extperf-pics">
-		<img class="lazy" data-original="images/pics/fusion.jpg"/>
-		<img class="lazy" data-original="images/pics/bts.jpg"/>
-		<img class="lazy" data-original="images/pics/Leapofthestring.jpg"/>
+		<img class="lazy" data-original="images/pics/HHLY.jpg"/>
+		<img class="lazy" data-original="images/pics/witch.jpg"/>
+		<img class="lazy" data-original="images/pics/springpoem.jpg"/>
 	</div>
 </div>
 <p><i>*Only performances after August 2012 are listed.</i></p>

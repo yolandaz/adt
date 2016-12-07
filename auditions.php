@@ -2,17 +2,36 @@
 
 <div class="content-wrapper">
 	<h1 class="topic-header">General</h1>
+	<!-- Change auditions status after auditions happens! And change it to the date of auditions when it's coming soon. -->
 	<p>
-		<b style="color:#ff9999">Spring 2016 Auditions have passed.</b> If you're interested in joining in a later term, please email <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> to be put on our interest list!
+		<b style="color:#ff9999">Fall 2016 Auditions have passed.</b> If you're interested in joining in a later term, please email <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> to be put on our interest list!
 	</p>
 	<!--
 	<p>
-		<b style="color:#ff9999">Spring 2016 Auditions will be held on February 6, 2016 from 3pm - 6:30pm in the BC Porter Room!</b> If you'd like to audition, please fill out <a href="http://goo.gl/forms/Zle05ZdHTq">this form</a>! Email <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> if you have questions or wish to request a makeup audition. You can see our spring 2016 auditions policy <a href="http://goo.gl/0ExUoF">here</a>.
+		<b style="color:#ff9999">The Fall 2016 MIT Asian Dance Team auditions will be held in the BC Porter Room (Note: NOT McCormick) on Saturday, September 10, starting at 3 pm! The auditions will go until 6 pm.</b> 
 	</p>
-	-->
+
+
 	<p>
-		At auditions, you will learn some traditional and hip-hop choreography, as well as preview this semester's pieces. Please wear comfortable clothing that you can move in. Don't worry if you don't have any dance experience! Many of our members join without prior dance experience. We accept all those who audition, regardless of experience, race, age, gender, etc. (Note: You do not have to be a first-year, or even be from MIT, to audition. We welcome any undergraduate or graduate student and would love to have you!*)
+		At auditions, you will learn some traditional and hip-hop choreography. Please wear comfortable clothing that you can move in.
+	</p>
+
+	<p>
+	Don't worry if you don't have any dance experience! Many of our members join without prior dance experience. We accept all those who audition, regardless of experience, race, age, gender, etc. (Note: You do not have to be a first-year, undergraduate, or even an MIT student to audition. We welcome everyone and would love to have you!)
+	</p>
+		
+	<p>
+	If you plan on attending, there is a short interest fom to fill out located here: <a href="http://goo.gl/ugJ0XL">http://goo.gl/ugJ0XL</a>. After filling it out, you'll be able to see our Fall 2016 setlist!
+	</p>
+		
+	<p>
+	<b style="color:#ff9999">**Please bring a phone or laptop to the auditions, as preffing will be completed online!**</b>
+	</p>
+		
+	<p>
+		If you won't be able to make the auditions, but still wish to join, please contact <a href="mailto:adt-exec@mit.edu">adt-exec@mit.edu</a> by 11:59 pm on WEDNESDAY to see if we can make alternate arrangement.
 	</p>     
+	-->
 	<div class="auditions-pics">
 		<img class="lazy" data-original="images/pics/spring2013retreat.jpg" />
 	</div>
