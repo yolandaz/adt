@@ -5,6 +5,9 @@ $(window).load(function() {
 	//change numPictures depending on how many pictures you want to rotate
 	var numPictures = 11;
 
+	$('body').css({'background-image': 'url("../images/background/adt1.jpg")'});
+	setTimeout(function() {
+
 	for (i = 1; i <= numPictures; i++) {
 		images.push("images/background/adt"+i+".jpg");
 	}
@@ -29,4 +32,6 @@ $(window).load(function() {
 	    }
 	    return array;
 	}
+	
+	}, 1000);
 });
