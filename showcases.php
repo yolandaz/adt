@@ -161,7 +161,34 @@
 
 		<div class="content perflinks showcase-pics" id="showcase14">
 			<h1 class="topic-header">Fairytale</h1>
-			<p>Stay tuned for pictures and links from our Fall 2016 showcase!</p>
+			<p>Get a peek to our Fall 2016 showcase from the 12-day countdown pictures and stay tuned for pictures and links!</p>
+			<div class="repet-table">
+				<table>
+					<tbody>
+						<tr>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/pics/fa16-countdown/fa16-countdown1.jpg"></td>
+							<td><img class="lazy" data-original="images/pics/fa16-countdown/fa16-countdown2.png"></td>
+							<td><img class="lazy" data-original="images/pics/fa16-countdown/fa16-countdown3.png"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> Day 1 - Fragrant Magnolia</td>
+							<td> Day 2 - Golden Age</td>
+							<td> Day 3 - Legend of Ashitaka</td>
+						</tr>
+						<tr class="repet-pics">
+							<td><img class="lazy" data-original="images/pics/fa16-countdown/fa16-countdown4.jpg"></td>
+							<td><img class="lazy" data-original="images/pics/fa16-countdown/fa16-countdown5.jpg"></td>
+							<td><img class="lazy" data-original="images/pics/fa16-countdown/fa16-countdown6.jpg"></td>
+						</tr>
+						<tr class="repet-names">
+							<td> Day 4 - Happiness</td>
+							<td> Day 5 - Find Me</td>
+							<td> Day 6 - JWST</td>
+						</tr>
+					</tbody>
+				</table>
 		</div>
 
 
