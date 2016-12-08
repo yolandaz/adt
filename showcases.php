@@ -189,16 +189,13 @@
 						</tr>
 					</tbody>
 				</table>
+			</div>
 		</div>
 
 
 
 		<div class="content perflinks showcase-pics" id="showcase13">
 			<h1 class="topic-header">Reflections</h1>
-	<!--
-			<p>Stay tuned for pictures and links from our Spring 2016 showcase!</p>
-		</div>
-	-->
 			<p>We performed our Spring 2016 showcase, Reflections (行思坐忆), on May 12 at La Sala de PuertoRico! Our dancers were part of spectacular Jiaozhou Yangge, Yi, and Mongolian ethnic pieces, classical and contemporary dances, as well as hip-hop pieces by GOO Hara, Dynamic Duo, EXO, and Seventeen!</p>
 			<p>Click to watch the <a href="https://www.youtube.com/playlist?list=PLW0xC9CIbqVNEgsjg4dHDEH0OLWZEgWkh">videos</a>!</p>
 			<div class="repet-table">
@@ -281,13 +278,6 @@
 			<p><i>Photography courtesy of Olivia Chong and Landon Carter</i></p>
 			<br>
 		</div>
-
-
-
-
-
-
-
 		<div class="content perflinks showcase-pics" id="showcase12">
 			<h1 class="topic-header">Dawn</h1>
 			<p>We performed our Fall 2015 showcase, Dawn (晓破星沉), on December 9 and 10 in MIT's Walker Memorial! Our dancers were part of spectacular Dai, Tibetan, and Xinjiang ethnic pieces, classical and contemporary dances, as well as hip-hop pieces by BTS, Monsta X, Boyfriend, and Spica! We also hosted guest performances from groups such as MIT Ohms and Dance Revelasian.</p>
